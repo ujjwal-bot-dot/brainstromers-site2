@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ujjwal Kumar!
-Aspiring Web Developer | HTML & CSS Enthusiast | Future Tech Creator 🚀
+Aspiring Web Developer | HTML  🚀
 
 ---
 
