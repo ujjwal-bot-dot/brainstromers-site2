@@ -27,7 +27,7 @@ I'm passionate about becoming a front-end developer and keep improving every day
 ---
 
 ## 🌐 Connect With Me
-- 🎵 Instagram: [@UJJUvibes](https://www.instagram.com/ujjuvibes)
+- 🎵 Instagram: [@Ujjwal_wo](https://www.instagram.com/ujjwal_wo/)
 - 🌍 Website: [Brainstormers](https://ujjwal-bot-dot.github.io/brainstromers-site2/)
 
 ---
